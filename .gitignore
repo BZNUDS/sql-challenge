@@ -131,3 +131,5 @@ dmypy.json
 # api_keys
 api_keys.py
 
+#pgAdmin Keys
+bz_sql_key.py
